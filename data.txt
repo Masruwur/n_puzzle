@@ -1,0 +1,260 @@
+Grid no. 1
+
+1 2 3 4
+5 6 7 8
+9 10 0 11
+13 14 15 12
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 2
+Number of nodes explored = 2
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 2
+Number of nodes explored = 2
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 2
+Number of nodes explored = 2
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 2
+Number of nodes explored = 2
+--------------------------------------
+
+Grid no. 2
+
+1 2 3 4
+5 6 7 8
+9 0 10 12
+13 14 11 15
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+
+Grid no. 3
+
+1 2 3 4
+5 6 0 8
+9 10 7 11
+13 14 15 12
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 3
+Number of nodes explored = 3
+--------------------------------------
+
+Grid no. 4
+
+1 2 3 4
+5 6 11 7
+9 10 15 8
+13 14 0 12
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 5
+Number of nodes explored = 5
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 5
+Number of nodes explored = 5
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 5
+Number of nodes explored = 5
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 5
+Number of nodes explored = 5
+--------------------------------------
+
+Grid no. 5
+
+1 2 3 4
+5 0 6 8
+10 11 7 12
+9 13 14 15
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 8
+Number of nodes explored = 8
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 8
+Number of nodes explored = 8
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 8
+Number of nodes explored = 8
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 8
+Number of nodes explored = 8
+--------------------------------------
+
+Grid no. 6
+
+1 2 3 4
+5 6 7 8
+0 10 11 12
+9 13 14 15
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 4
+Number of nodes explored = 4
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 4
+Number of nodes explored = 4
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 4
+Number of nodes explored = 4
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 4
+Number of nodes explored = 4
+--------------------------------------
+
+Grid no. 7
+
+5 1 2 4
+9 6 3 8
+13 10 7 11
+0 14 15 12
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 9
+Number of nodes explored = 9
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 9
+Number of nodes explored = 9
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 9
+Number of nodes explored = 9
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 9
+Number of nodes explored = 9
+--------------------------------------
+
+Grid no. 8
+
+1 5 2 7
+10 14 11 6
+15 12 9 3
+13 0 8 4
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 34
+Number of nodes explored = 945
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 34
+Number of nodes explored = 1148
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 42
+Number of nodes explored = 121
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 66
+Number of nodes explored = 1036
+--------------------------------------
+
+Grid no. 9
+
+1 11 6 2
+10 13 15 5
+3 12 0 4
+9 7 14 8
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 40
+Number of nodes explored = 39953
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 40
+Number of nodes explored = 5217
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 48
+Number of nodes explored = 4998
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 42
+Number of nodes explored = 57
+--------------------------------------
+
+Grid no. 10
+
+5 8 13 15
+14 0 1 7
+4 6 10 2
+11 9 12 3
+
+
+-----------------
+Weight = 1.0
+Minimum number of moves = 52
+Number of nodes explored = 1350135
+--------------------------------------
+Weight = 1.2
+Minimum number of moves = 52
+Number of nodes explored = 76668
+--------------------------------------
+Weight = 2.0
+Minimum number of moves = 62
+Number of nodes explored = 506
+--------------------------------------
+Weight = 5.0
+Minimum number of moves = 90
+Number of nodes explored = 1562
+--------------------------------------
+
